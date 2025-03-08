@@ -1,4 +1,4 @@
-![screenshot](20200912_160301-01.jpeg)
+![screenshot](hello there!.png)
 ### Hi there 👋
 🔭 I’m currently working on ...
 <!--
