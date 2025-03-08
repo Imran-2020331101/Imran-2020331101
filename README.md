@@ -1,5 +1,6 @@
+![screenshot](20200912_160301-01.jpeg)
 ### Hi there 👋
-
+🔭 I’m currently working on ...
 <!--
 **Imran-2020331101/Imran-2020331101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
