@@ -1,4 +1,4 @@
-![screenshot](hello there!.png)
+![screenshot](robot.png)
 ### Hi there 👋
 🔭 I’m currently working on ...
 <!--
