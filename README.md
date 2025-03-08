@@ -1,4 +1,5 @@
 ![screenshot](robot.png)
+<img src="robot.png" height="150" alt="accessibility text">
 ### Hi there 👋
 🔭 I’m currently working on ...
 <!--
