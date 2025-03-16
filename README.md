@@ -1,3 +1,7 @@
+<h1 align="center">¡Hola! 👋, I'm Imran</h1>
+<h3 align="center">Front-End Developer</h3>
+<h4 align="center">-- Sylhet, Bangladesh --</h4>
+<br />
 <img src="robot.png" height="350" width="100%" alt="accessibility text">
 ### Hi there 👋
 🔭 I’m currently working on ...
