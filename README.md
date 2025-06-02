@@ -12,12 +12,12 @@ I'm Imran — a Computer Science undergrad passionate about blending front-end d
 
 - 🔭 I’m currently working on:
   - **Aicademy**: An AI-powered personal learning assistant for students and educators.
-  - **TravelMate**: A smart travel platform that plans itineraries, shares experiences, and integrates real-time weather and AI vlogs.
+  - **OnTheGo**: A smart travel platform that plans itineraries, shares experiences, and integrates real-time weather and AI vlogs.
 
 - 🌱 I’m currently learning:
   - Advanced **React.js**, **Spring Boot**, and **TailwindCSS**
   - Networking protocols and systems design
-  - Applying **Machine Learning** in **drug discovery** and **QSAR modeling**
+  - Applying **Machine Learning** in **drug discovery**
 
 - 👯 I’m looking to collaborate on:
   - Open-source projects related to **education**, **healthtech**, or **AI**
