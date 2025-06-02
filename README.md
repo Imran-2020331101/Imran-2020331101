@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! 👋, I'm Imran</h1>
-<h3 align="center">Front-End Developer</h3>
+<h3 align="center">Full-Stack Explorer</h3>
 <h4 align="center">-- Sylhet, Bangladesh --</h4>
 <br />
 <img src="robot.png" height="350" width="100%" alt="A stylized robot representing Imran's interest in AI and technology">
@@ -33,8 +33,8 @@ I'm Imran — a Computer Science undergrad passionate about blending front-end d
   - How to survive the FPL season 😄
 
 - 📫 How to reach me:
-  - Email: `imran.cse20@gmail.com`
-  - LinkedIn: [linkedin.com/in/imran-cse20](https://linkedin.com/in/imran-cse20)
+  - Email: `imranbinazad777@outlook.com`
+  - LinkedIn: [linkedin](https://www.linkedin.com/in/imran-bin-azad-5b964a1b6/)
 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I don't swim but love exploring landlocked adventures and AI rabbit holes!
