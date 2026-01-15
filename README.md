@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! 👋, I'm Imran</h1>
-<h3 align="center">Full-Stack Explorer</h3>
+<h3 align="center">Explorer</h3>
 <h4 align="center">-- Sylhet, Bangladesh --</h4>
 <br />
 <img src="robot.png" height="350" width="100%" alt="Robot or something I don't know I just put the one that looked cool">
